@@ -22,16 +22,16 @@ classifiers = [
     "Operating System :: OS Independent",
 ]
 dependencies = [
-    "starknet-py>",
+    "starknet-py",
     "marshmallow-dataclass>=8.6.1,<9.0.0",
     "eth-account",
-    "web3>=",
-    "starknet-crypto-py>",
+    "web3",
+    "starknet-crypto-py",
     "httpx",
-    "websockets>",
-    "ledgereth>",
-    "pydantic>",
-    "poseidon-py>",
+    "websockets",
+    "ledgereth",
+    "pydantic",
+    "poseidon-py",
 ]
 
 [project.urls]

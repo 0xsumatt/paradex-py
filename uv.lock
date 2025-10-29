@@ -480,7 +480,6 @@ toml = [
 
 [[package]]
 name = "crypto-cpp-py"
-version = "1.4.5"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "ecdsa" },
